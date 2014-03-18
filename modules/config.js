@@ -12,7 +12,7 @@
 
   // Don't commit changes to these without prior approval please
   jetzt.DEFAULT_OPTIONS = {
-      target_wpm: 400
+      target_wpm: 500
     , scale: 1
     , dark: false
     , show_message: false
